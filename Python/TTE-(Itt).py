@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 4,
    "id": "b92806c0-a893-4d71-ad26-26fa474d16e3",
    "metadata": {},
    "outputs": [
@@ -34,8 +34,8 @@
       "Dep. Variable:                outcome   R-squared:                       0.055\n",
       "Model:                            OLS   Adj. R-squared:                  0.054\n",
       "Method:                 Least Squares   F-statistic:                     42.18\n",
-      "Date:                Sat, 01 Mar 2025   Prob (F-statistic):           1.55e-10\n",
-      "Time:                        15:28:53   Log-Likelihood:                 495.91\n",
+      "Date:                Fri, 28 Feb 2025   Prob (F-statistic):           1.55e-10\n",
+      "Time:                        17:21:59   Log-Likelihood:                 495.91\n",
       "No. Observations:                 725   AIC:                            -987.8\n",
       "Df Residuals:                     723   BIC:                            -978.7\n",
       "Df Model:                           1                                         \n",
@@ -137,13 +137,13 @@
     "plt.xlabel(\"Follow up\")\n",
     "plt.ylabel(\"Survival Difference\")\n",
     "plt.legend()\n",
-    "plt.show()"
+    "plt.show()\n"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "86cd50d9-d89e-47d8-b74b-27cb1626baaf",
+   "id": "6c53e236-1d18-4c8e-b3b8-bb773deb06d9",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -151,7 +151,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "05388867-271d-49cb-9f06-87512180d799",
+   "id": "468faa20-bf82-483d-bb31-c82df488634d",
    "metadata": {},
    "outputs": [],
    "source": []
